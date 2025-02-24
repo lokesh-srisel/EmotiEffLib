@@ -11,9 +11,26 @@ including Torch and ONNX Runtime.
 ```
 
 It is also possible to install it via pip:
-```
-    pip install emotiefflib
-```
+- Install EmotiEffLib with ONNX support:
+   ```sh
+   pip install emotiefflib
+   ```
+- Install EmotiEffLib with ONNX and Torch support:
+   ```sh
+   pip install emotiefflib[torch]
+   ```
+- Install EmotiEffLib with ONNX and TensorFlow support (the last one is necessary for enagement prediction):
+   ```sh
+   pip install emotiefflib[engagement]
+   ```
+- Install EmotiEffLib with all possible dependencies:
+   ```sh
+   pip install emotiefflib[all]
+   ```
+   or
+   ```sh
+   pip install emotiefflib[torch,engagement]
+   ```
 
 ## Usage
 Examples of usage EmotiEffLib you can find in the [python examples section](../docs/tutorials/python/README.md).
