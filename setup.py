@@ -15,12 +15,12 @@ with open("requirements-engagement.txt", encoding="utf-8") as f:
 
 setup(
     name="emotiefflib",
-    version="0.4.0",
+    version="1.0",
     license="Apache-2.0",
     author="Andrey Savchenko, Egor Churaev",
     author_email="andrey.v.savchenko@gmail.com, egor.churaev@gmail.com",
     packages=find_packages("."),
-    # download_url="https://github.com/HSE-asavchenko/hsemotion-onnx/archive/v0.3.1.tar.gz",
+    download_url="https://github.com/av-savchenko/EmotiEffLib/archive/v1.0.tar.gz",
     url="https://github.com/av-savchenko/EmotiEffLib",
     description="EmotiEffLib Python Library for Facial Emotion and Engagement Recognition",
     keywords=[
