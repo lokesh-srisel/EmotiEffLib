@@ -1,7 +1,10 @@
 # EmotiEffLib (Emotion Efficient Library)
-<!--[![Downloads](https://static.pepy.tech/personalized-badge/hsemotion?period=total&units=international_system&left_color=grey&right_color=blue&left_text=pip%20installs)](https://pepy.tech/project/hsemotion)-->
-[![pypi package](https://img.shields.io/badge/version-v1.0-blue)]([https://pypi.org/project/hsemotion](https://pypi.org/project/emotiefflib/))
+[![Tests](https://github.com/av-savchenko/EmotiEffLib/actions/workflows/tests.yml/badge.svg)](https://github.com/av-savchenko/EmotiEffLib/actions/workflows/tests.yml)
+[![pypi package](https://img.shields.io/badge/version-v1.0-blue)]([https://pypi.org/project/emotiefflib](https://pypi.org/project/emotiefflib/))
+[![License](https://img.shields.io/pypi/l/emotiefflib)](https://github.com/av-savchenko/EmotiEffLib/blob/main/LICENSE)
+[![Downloads](https://static.pepy.tech/personalized-badge/emotiefflib?period=total&units=international_system&left_color=grey&right_color=blue&left_text=pip%20installs)](https://pepy.tech/project/emotiefflib)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/classifying-emotions-and-engagement-in-online/facial-expression-recognition-on-affectnet)](https://paperswithcode.com/sota/facial-expression-recognition-on-affectnet?p=classifying-emotions-and-engagement-in-online)
+[![GitHub stars](https://img.shields.io/github/stars/av-savchenko/emotiefflib.svg?style=social&label=Star&maxAge=8640)](https://github.com/av-savchenko/emotiefflib/stargazers/)
 
 EmotiEffLib (Emotion Efficient Library) is a lightweight library for emotion and
 engagement recognition in photos and videos. It can be used in Python and C++.
