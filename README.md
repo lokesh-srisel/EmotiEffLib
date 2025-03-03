@@ -1,4 +1,4 @@
-# EmotiEffLib (Emotion Efficient Library)
+# EmotiEffLib: Library for Efficient Emotion Analysis and Facial Expression Recognition
 [![Tests](https://github.com/av-savchenko/EmotiEffLib/actions/workflows/tests.yml/badge.svg)](https://github.com/av-savchenko/EmotiEffLib/actions/workflows/tests.yml)
 [![pypi package](https://img.shields.io/badge/version-v1.0-blue)]([https://pypi.org/project/emotiefflib](https://pypi.org/project/emotiefflib/))
 [![License](https://img.shields.io/pypi/l/emotiefflib)](https://github.com/av-savchenko/EmotiEffLib/blob/main/LICENSE)
